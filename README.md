@@ -1,1 +1,1 @@
-# Projeto E-commerce
+# Projeto de um ecommerce para apredizado em php
